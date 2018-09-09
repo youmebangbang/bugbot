@@ -1,4 +1,3 @@
-#include <Adafruit_PWMServoDriver.h>
 #include <WiFi.h>
 #include <esp_now.h>
 
